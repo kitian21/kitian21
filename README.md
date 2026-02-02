@@ -1,14 +1,14 @@
-# Hola, soy Christian Enrique Jara Hinojosa 👋
+# Hola, soy Christian Enrique Jara Hinojosa
 
 Soy **Ingeniero en Informática (estudiante)** y **Analista Programador** enfocado en el desarrollo Full Stack y el Análisis de Datos.
 
-### 🚀 Sobre mí
+### Sobre mí
 - 📊 **Análisis de Datos:** Especializado en automatización y web scraping con Python para el sector inmobiliario.
 - 💻 **Desarrollo Full Stack:** Experiencia creando soluciones comerciales con Angular y ASP.NET.
 - ⚙️ **Agilidad:** Certificado en metodologías SCRUM y diseño ágil de sistemas.
 - 🌱 Actualmente profundizando en **Big Data** y gestión de bases de datos masivas.
 
-### 🛠️ Tecnologías y Herramientas
+### Tecnologías y Herramientas
 - **Lenguajes:** Python, JavaScript, C#, TypeScript.
 - **Frameworks/Web:** Angular, ASP.NET, HTML/CSS.
 - **Bases de Datos:** SQL Server, MongoDB.
