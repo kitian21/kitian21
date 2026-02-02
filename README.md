@@ -14,10 +14,6 @@ Soy **Ingeniero en Informática (estudiante)** y **Analista Programador** enfoca
 - **Bases de Datos:** SQL Server, MongoDB.
 - **Herramientas:** Git, Visual Studio, Figma, Macros VBA, POSTMAN.
 
-### 📈 Mi Actividad en GitHub
-![Estadísticas de Christian](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=radical)
-
 ---
 📫 **¿Cómo contactarme?**
 - 📧 Email: [christianjara2004@gmail.com](mailto:christianjara2004@gmail.com)
